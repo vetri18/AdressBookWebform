@@ -1,0 +1,19 @@
+﻿html {
+    font-size: 14px;
+    font-family: "Open Sans",sans-serif;
+    background-color: #00539f;
+    background-image: url('../webpgimg/black-dramatic-clouds_bfx3g6thl_thumbnail-1080_14.png');
+}
+body {
+}
+.sec2 {
+    color: white;
+    height: 355px;
+    width: 822px;
+    margin-left: 211px;
+    background-color: pink;
+    
+    background-image: url('../img/501-contact-form-background.jpg');
+    text-shadow: 1px 1px 1px white;
+    margin-top: 135px;
+}
